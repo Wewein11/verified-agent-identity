@@ -8,7 +8,7 @@ on:
         required: true
         default: 'wewein11'
       agent_description:
-        description: 'wewein12'
+        description: 'wewein11'
         required: true
         default: 'wewein11AI Agent'
 
